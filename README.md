@@ -1,6 +1,6 @@
 # chord-player
 
-App for playing chords on a laptop. Built it because I was bored.
+App for playing chords on a laptop.
 
 ## Run it
 
